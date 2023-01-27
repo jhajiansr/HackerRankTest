@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HackerRankTest": {
+      "commandName": "Project",
+      "commandLineArgs": "6"
+    }
+  }
+}
